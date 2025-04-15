@@ -1,8 +1,8 @@
 import random
 
 def main():
-    name = "Aryan Singh"
-    admission_no = "21JE1234"
+    name = "Eshita Paliwal"
+    admission_no = "21JE0334"
     print(f"🔮 Welcome to {name}'s Fortune Teller ({admission_no}) 🔮")
 
     mood = input("How are you feeling today? (happy/sad/neutral/stressed): ").lower()
